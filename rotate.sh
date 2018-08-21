@@ -1,7 +1,7 @@
 #!/bin/bash
 xrandr --output LVDS1 --rotate left
 #xinput list
-
+#   TRANSFORM='Coordinate Transformation Matrix'
 #normal)
 #xinput set-prop "$TOUCHPAD"    "$TRANSFORM" 1 0 0 0 1 0 0 0 1
 #inverted)
